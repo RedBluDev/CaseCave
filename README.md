@@ -1,3 +1,3 @@
 # CaseBase
-An easily moddable game about opening cases that is not coming out tomorrow
+An easily moddable game about opening cases that is not coming out tomorrow\n
 Play online on Itch.io: [https://redbluecreator.itch.io/casebase](https://redbluecreator.itch.io/casebase)
