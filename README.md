@@ -1,3 +1,4 @@
-# CaseBase  
+# The Case Cave  
 An easily moddable game about opening cases that is not coming out tomorrow  
-Play online on Itch.io: [https://redbluecreator.itch.io/casebase](https://redbluecreator.itch.io/casebase)
+Inspired by Rock Paper Scissors  
+Play online on Itch.io: [https://redbludev.itch.io/casecave](https://redbludev.itch.io/casecave)
