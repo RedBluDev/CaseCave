@@ -1,4 +1,4 @@
 # The Case Cave (v0.9)  
-An easily moddable game about opening cases that is not coming out tomorrow  
 Inspired by Rock Paper Scissors  
 Play online on Itch.io: [https://redbludev.itch.io/casecave](https://redbludev.itch.io/casecave)
+The engine is fully functional, but I'm not sure I'm ever gonna finish the gameplay and the modding tutorials
