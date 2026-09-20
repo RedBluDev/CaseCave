@@ -1,0 +1,12 @@
+{
+    "gray": {
+        "num": {"paper": 8},
+        "numUnlocks": {"basic": [2, 3]},
+        "blnUnlocks": ["rocks", "purple"]
+    },
+    "purple": {
+        "num": {"scissors": 12},
+        "numUnlocks": {"basic": [4]},
+        "blnUnlocks": ["rare", "keys", "locked"]
+    }
+}

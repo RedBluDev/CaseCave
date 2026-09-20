@@ -1,0 +1,30 @@
+{
+    "shop": {
+        "dealer": {},
+        "deals": [{"pBlnT": ["purple"], "numTrades": {"locked": 1, "keys": -1}, "img1": "case-locked1"}]
+    },
+    "scissors": {
+        "dealer": {"scissors": {"seed": 1}},
+        "deals": [{"numTrades": {"scissors": {"seed": 1, "choice": 1}}}]
+    },
+    "paper": {
+        "dealer": {"paper": {"seed": 1}, "scissors": 0},
+        "deals": [{"numTrades": {"scissors": {"seed": -1, "choice": -1}, "paper": {"seed": 1, "choice": 1}}}]
+    },
+    "rocks": {
+        "dealer": {"rocks": {"seed": 1}, "paper": 0, "scissors": 0},
+        "deals": [{"numTrades": {"scissors": {"choice": 1, "req": false}, "paper": {"seed": -1, "choice": -1}, "rocks": {"seed": 1, "choice": 1}}}]
+    },
+    "well": {
+        "dealer": {},
+        "deals": [{"numTrades": {"scissors": {"seed": -3}}, "img1": "loot-well1"}, {"numTrades": {"paper": {"seed": -2}}, "img1": "loot-well1"}, {"numTrades": {"rocks": {"seed": -1}}, "img1": "loot-well1"}]
+    },
+    "keys": {
+        "dealer": {"keys": {"seed": 1}},
+        "deals": [{"numTrades": {"keys": {"seed": 1, "choice": 1}}}]
+    },
+    "rare": {
+        "dealer": {"rare": {"seed": 1}},
+        "deals": [{"numTrades": {"rare": {"seed": 1, "choice": 1}}}]
+    }
+}

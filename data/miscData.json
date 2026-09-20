@@ -1,0 +1,12 @@
+{
+    "cases": ["basic", "rare", "locked"],
+    "itemColumn1": ["scissors", "paper", "rocks"],
+    "itemColumn2": ["amethysts", "rubies", "emeralds"],
+    "itemColumn3": ["sapphires", "amber", "keys"],
+    "toolRow": [],
+    "tasks": ["gray", "purple"],
+    "codes": {
+        "Who are you?": ["I can help you out... with knowledge..."],
+        "Where is Viktor?": ["He seems to be busy in his GD basement."]
+    }
+}
