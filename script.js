@@ -28,9 +28,9 @@ const createArray = (input, filter) => {
                 elements.push(e.loop)
             } else if(e.random != undefined){
                 let f = e.random.filter(filter ?? (() => true));
-                let s = rng(1, f.reduce((a, v) => a + v.chance, 0));
+                let n = rng(1, f.reduce((a, v) => a + v.chance, 0));
                 let c = 0;
-                elements.push(f.reduce((a, v) => {c += v.chance; if(a == undefined && s <= c){return v} else {return a}}, undefined).element)
+                elements.push(f.find(o => {c += o.chance; return n <= c}).element)
             } else {
                 output.push(e);
                 break
